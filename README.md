@@ -1,7 +1,7 @@
 # Hi! I am Boris aka Chroma. 👋
 
 ### FiveM Developer - Front-End Developer
-I'm dynamic and enthusiast developer specializing mainly in FiveM Development and in Front-end Development.    
+I'm dynamic and enthusiast developer specializing mainly in FiveM Development and Front-end Development.    
 <!--
 **Chroma51/Chroma51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
