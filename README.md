@@ -2,6 +2,8 @@
 
 ### FiveM Developer - Front-End Developer
 I'm dynamic and enthusiast developer specializing mainly in FiveM Development and Front-end Development.    
+
+https://camo.githubusercontent.com/0484e014cd85759749c9b0b9dd8f497e62c09a63aae3f21ab87b61e057e7dc21/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c6174266c6f676f3d6a617661
 <!--
 **Chroma51/Chroma51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
