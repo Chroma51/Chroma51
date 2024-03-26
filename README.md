@@ -1,5 +1,8 @@
-### Hi! I am Chroma. 👋
+### Hi! I am Boris aka Chroma. 👋
 
+## FiveM Developer - Front-End Developer
+
+- I'm dynamic developer specializing mainly in FiveM Development. I used to gain knowledge about Discord Development 3 years ago. My bots had served over 100 servers.
 <!--
 **Chroma51/Chroma51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
