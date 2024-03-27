@@ -11,6 +11,8 @@ I'm dynamic and enthusiast developer specializing mainly in FiveM Development.
 
 - 📚 Currently learning HTML & CSS
 
+- 📌 Release soon my first FiveM resource
+
 
 
 <!--
