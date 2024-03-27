@@ -9,6 +9,8 @@ I'm dynamic and enthusiast developer specializing mainly in FiveM Development.
 
 - 📑 You can ask me whatever you want on my Discord.
 
+- 📚 Currently learning HTML & CSS
+
 
 
 <!--
