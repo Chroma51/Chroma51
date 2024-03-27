@@ -10,6 +10,7 @@ I'm dynamic and enthusiast developer specializing mainly in FiveM Development.
 - 📑 You can ask me whatever you want on my Discord.
 
 
+
 <!--
 **Chroma51/Chroma51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
