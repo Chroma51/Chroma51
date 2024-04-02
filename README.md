@@ -27,8 +27,7 @@ I'm dynamic and enthusiast developer specializing mainly in FiveM Development.
 ![Image Alt Text](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Image Alt Text](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Image Alt Text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Image Alt Text]()
- 
+
 
 <!--
 **Chroma51/Chroma51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
