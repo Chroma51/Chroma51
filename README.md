@@ -7,7 +7,7 @@ I'm dynamic and enthusiast developer specializing mainly in FiveM Development.
 
 - 📘 I would like to collaborate with FiveM developer.
 
-- 📑 You can ask me whatever you want on my Discord.
+- 📑 You can ask me whatever you want on my Discord (chroma51).
 
 - 📚 Currently learning HTML & CSS
 
