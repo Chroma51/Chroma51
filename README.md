@@ -1,13 +1,8 @@
 # Hi! I am Boris aka Chroma. 👋
 
-### Wannabe FiveM Developer
-I'm dynamic and enthusiast developer specializing mainly in FiveM Development.
+I'm dynamic and enthusiast developer specializing mainly in FiveM Development and Front-end development.
 
 - 💻 I am working on a local host FiveM server
-
-- 📘 I would like to collaborate with FiveM developer.
-
-- 📑 You can ask me whatever you want on my Discord (chroma51).
 
 - 📚 Currently learning HTML & CSS
 
